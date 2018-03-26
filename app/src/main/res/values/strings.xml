@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">GuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Number">Number :</string>
+    <string name="Direction">Direction :</string>
+    <string name="infoh">Info</string>
+    <string name="RESTO">Resto</string>
+    <string name="HOTEL">Hotel</string>
+    <string name="MUSEUM">Museum</string>
+    <string name="ATM">Atm</string>
+<!--RESTAURANT CATEGORY-->
+     <string name="info">info.</string>
+    <string name="directionR1">Carrer Bonastruc de porta 10,17001 Girona(Spain)</string>
+    <string name="nameR1">Restaurant Massana</string>
+    <string name="numberR1">(0034)972213820</string>
+    <!---->
+     <string name="infoR2">info</string>
+    <string name="directionR2">Placa Independencia,2 17001 Girona(Spain)</string>
+    <string name="nameR2">Frankfurter Konig 2</string>
+    <string name="numberR2">(0034)972202099</string>
+    <!---->
+     <string name="infoR3">info </string>
+    <string name="directionR3">Carrer Ginesta, 8, 17002 Girona(Spain)</string>
+    <string name="nameR3">Restaurant L Alqueria</string>
+    <string name="numberR3">(0034)972221882</string>
+    <!---->
+     <string name="infoR4">info</string>
+    <string name="directionR4">Carrer Bonastruc de porta,4 ,17001, Girona(Spain)</string>
+    <string name="nameR4">Txalaca</string>
+    <string name="numberR4">(0034)972225975</string>
+    <!--HOTEL CATEGORY-->
+    <string name="infoH">Info</string>
+    <string name="directionH1">Pujada polvorins, 1 ,17004, Girona(Spain)</string>
+    <string name="nameH1">Hotel by Marriott Palau</string>
+    <string name="numberH1">(0034)872080670</string>
+    <!---->
+    <string name="infoH2">Info</string>
+    <string name="directionH2">Carrer Barcelona, 172, 17003, Girona(Spain)</string>
+    <string name="nameH2">Hotel Melia Girona</string>
+    <string name="numberH2">(0034)972764747</string>
+    <!---->
+     <string name="infoH3">info. </string>
+    <string name="directionH3">Carrer del portal de la Barca,4 ,17004 Girona(Spain)</string>
+    <string name="nameH3">Hotel Llegendes De Girona</string>
+    <string name="numberH3">(0034)972220905</string>
+    <!---->
+     <string name="infoH4">info. </string>
+    <string name="directionH4">Carrer mossen Joan Pons, 1, 17001,Girona(Spain)</string>
+    <string name="nameH4">Double Tree By Hilton Hotel</string>
+    <string name="numberH4">(0034)972414600</string>
+    <!--ATM CATEGORY-->
+    <string name="infoA">Info</string>
+    <string name="directionA1">C/Forca,24,17004 Girona,Spain</string>
+    <string name="nameA1">Automatico Caja</string>
+    <string name="numberA1">(0034)972115599</string>
+    <!---->
+    <string name="infoA2">Info</string>
+    <string name="directionA2">Avinguda de Lluis Pericot, 46, 17003, Girona,Spain</string>
+    <string name="nameA2">Bitcoin Exchange SL</string>
+    <string name="numberA2">(0034)972115599</string>
+    <!---->
+     <string name="infoA3">info. </string>
+    <string name="directionA3">Calle Acequilla ,9 ,17001 Girona(Spain)</string>
+    <string name="nameA3">Caja Madrid</string>
+    <string name="numberA3">(0034)972400500</string>
+    <!---->
+     <string name="infoA4">info</string>
+    <string name="directionA4">Placa Calvet i Rubalcaba, 10,17002 Girona(Spain)</string>
+    <string name="nameA4">Caixa Bank</string>
+    <string name="numberA4">(0034)972412500</string>
+    <!--MUSEUM CATEGORY-->
+    <string name="infoM">Info</string>
+    <string name="directionM1">Calle Acequilla ,9 ,17001 Girona(Spain)</string>
+    <string name="nameM1">Museu D art</string>
+    <string name="numberM1">(0034)972415500</string>
+    <!---->
+    <string name="infoM2">Info</string>
+    <string name="directionM2">Carrer Bonastruc de porta,4 ,17001, Girona(Spain)</string>
+    <string name="nameM2">Museu de Cinema</string>
+    <string name="numberM2">(0034)972414611</string>
+    <!---->
+     <string name="infoM3">info.</string>
+    <string name="directionM3">>C/Forca,24,17004 Girona,Spain</string>
+    <string name="nameM3">  Castle of Pujol</string>
+    <string name="numberM3">(0034)972416600</string>
+    <!---->
+     <string name="infoM4">info.</string>
+    <string name="directionM4">Carrer mossen Joan Pons, 1, 17001,Girona(Spain)</string>
+    <string name="nameM4">Museu D Art de Girona</string>
+    <string name="numberM4">(0034)972414600</string>
+
+
+</resources>
